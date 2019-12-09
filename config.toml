@@ -1,0 +1,11 @@
+baseURL = "https://yfei1.github.io/"
+languageCode = "en-us"
+title = "My Site"
+theme = "github-style"
+
+[params]
+  author = "Yufan Fei"
+  github = "yfei1"
+  email  = "yfei816@gmail.com"
+  avatar = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/69306615-010a-4f72-bffb-ec6ed4614e31/d6b4r72-75d16072-1120-4d88-b01c-5209c9643e0b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY5MzA2NjE1LTAxMGEtNGY3Mi1iZmZiLWVjNmVkNDYxNGUzMVwvZDZiNHI3Mi03NWQxNjA3Mi0xMTIwLTRkODgtYjAxYy01MjA5Yzk2NDNlMGIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Jm-7uxex1YeXA7lnKOjqWWaWHppGC_Rt6OXpyBxQHAo"
+  url    = "https://yfei1.github.io"
