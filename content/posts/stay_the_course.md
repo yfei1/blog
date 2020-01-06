@@ -70,3 +70,7 @@ Mutual fund activities are divided into three categories: Administration, Invest
 | Scorn         | 藐视，嘲弄                          | He had deep scorn for the rich                                     |
 | Hindsight     | 后见之明                            | With the benefit of hindsight, we should not have...               |
 | Snide         | 挖苦，恶意的                        | Snide article, snide remark.                                       |
+| Vociferous         | 叫嚣的                        | He is as vociferous as ever an evangelist for cost-cutting                                       |
+| Recuperating         | 康复                        | He is recuperating                                       |
+| Firmament         | 天空，苍穹                        | A new star in the firmament                                       |
+| Semblance         | 外表，样子；类似，酷似                        | Put on a semblance of happiness;                                       |
