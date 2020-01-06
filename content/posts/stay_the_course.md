@@ -1,14 +1,12 @@
 ---
 title: Reflection - Stay The Course
-date: 2019-12-09
+date: 2020-01-03
 tags: [Reflection, John C. Bogle, Stay The Course]
 ---
 
 The story of Vanguard and the Index Revolution
 
 <!--more-->
-
-# {{< rawhtml >}} <span style="color:#0A6365">Preface</span> {{< /rawhtml >}}
 
 TODO: Verify it still holds
 
