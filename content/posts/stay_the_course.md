@@ -23,16 +23,11 @@ Criticism #2: Index investing has produced an unhealthy concentration of ownersh
 
 > Perhaps banding together to encourage the airline companies to raise their prices would benefit their holdings of airline stocks, but this would mean higher costs for all the other companies in their portfolio that depend on the airlines to facilitate business travel. Indeed, since index funds have encouraged managements to adopt compensation systems based on relative rather than absolute performance, they have explicitly promoted vigorous competition among the firms in every industry.
 
-
-## {{< rawhtml >}} <span style="color:#0A6365">Chapter 1 - The Prophecy</span> {{< /rawhtml >}}
-
 Vanguard's differentiator:
 > The only way for the 100 million families whom the mutual fund industry serves to maximize their share of the financial-market returns they earn as a group is by minimizing their costs.
 
 Key metrics:
 > Managing $5 trillion on behalf of some 20 million clients worldwide, with 65% share of the industry's entire net cash flow during the past five years - more than two largest competitors combined. General publics invest $1 billion each business day into Vanguard.
-
-## {{< rawhtml >}} <span style="color:#0A6365">Chapter 2 - The Background - Blair, Princeton, Fortune, and Wellington</span> {{< /rawhtml >}}
 
 John's thesis key conclusion:
 > Investment companies should be operated in the most efficient, honest, and economical way possible.
@@ -55,3 +50,23 @@ Two potential ways to resolve this conflict:
 
 > It was high time, I added, that any conflicts between the profession of investing and the businees of investing be reconciled in favor of the client.
 > 我补充说，现在是时候调节专业投资和投资业务之间的矛盾以使客户满意了。
+
+Mutual fund activities are divided into three categories: Administration, Investment management and share distribution. Vanguard starts from a small step - internalizing administration by fund staff.
+
+|      |               |                                            |
+|---------------|-------------------------------------|--------------------------------------------------------------------|
+| Stringent     | 严格，严厉，紧缩，短缺              | A stringent money market                                           |
+| Denizens      | 居民，栖息者                        | Denizens of Wall Street                                            |
+| Chuck         | (informal) 抛，扔；停止，放弃，辞职 | Chuck the ball to him; She got fed up with her job and chucked it; |
+| Indispensable | 不可缺少的，必不可少的；            | Exercise is indispensable for health;                              |
+| Mandate       | 命令，指示；授权                    | I was left with the narrowest of mandates.                         |
+| Saga          | 长篇故事                            |                                                                    |
+| Nondescript   | 极普通的，无明显特征的              | I would be giving a nondescript firm.                              |
+| Skirmish      | 小冲突，口角                        | A street skirmish; A skirmish over the new policy.                 |
+| Snag          | 障碍                                | We came across a snag in the course of the experiment.             |
+| Rescind       | 废除，撤回                          | Rescind a law; Rescind the order                                   |
+| Let alone     | 更不用说                            |                                                                    |
+| Inception     | 正式，开始                          | The inception of the schedule.                                     |
+| Scorn         | 藐视，嘲弄                          | He had deep scorn for the rich                                     |
+| Hindsight     | 后见之明                            | With the benefit of hindsight, we should not have...               |
+| Snide         | 挖苦，恶意的                        | Snide article, snide remark.                                       |
